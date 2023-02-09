@@ -1,2 +1,2 @@
-#!/bin/bashasha
+#!/bin/bash
 chmod -R +X .
